@@ -84,3 +84,13 @@
 
 за дополнительной информацией о настройке компоненты хранилища смотрите тут https://github.com/creocoder/yii2-flysystem
 
+## Полезные ссылки
+
+https://github.com/MihailDev/yii2-elfinder/
+
+https://github.com/barryvdh/elfinder-flysystem-driver
+
+https://github.com/creocoder/yii2-flysystem
+
+http://flysystem.thephpleague.com/
+
