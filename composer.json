@@ -1,0 +1,30 @@
+{
+    "name": "mihaildev/yii2-elfinder-flysystem",
+    "keywords": ["yii", "elfinder", "flysystem"],
+    "description": "Yii2 ElFinder Flysystem",
+    "homepage": "https://github.com/MihailDev/yii2-elfinder-flysystem",
+    "license": "BSD-3-Clause",
+    "minimum-stability":"stable",
+    "authors": [
+        {
+            "name": "Mihail",
+            "email": "mihail.kucher@gmail.com",
+            "homepage": "https://github.com/MihailDev",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"mihaildev\\elfinder\\flysystem": ""}
+    },
+    "require": {
+        "mihaildev/yii2-elfinder": "*",
+        "creocoder/yii2-flysystem": "^0.8.1",
+        "barryvdh/elfinder-flysystem-driver": "^0.2.0"
+    },
+    "extra": {
+      "asset-installer-paths": {
+        "npm-asset-library": "vendor/npm",
+        "bower-asset-library": "vendor/bower"
+      }
+    }
+}
