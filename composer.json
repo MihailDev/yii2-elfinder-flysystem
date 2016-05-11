@@ -14,7 +14,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"mihaildev\\elfinder\\flysystem": ""}
+        "psr-4": {"mihaildev\\elfinder\\flysystem\\": ""}
     },
     "require": {
         "mihaildev/yii2-elfinder": "*",
