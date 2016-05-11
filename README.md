@@ -1,16 +1,16 @@
-Адаптация Flysystem для mihaildev/yii2-elfinder
+РђРґР°РїС‚Р°С†РёСЏ Flysystem РґР»СЏ mihaildev/yii2-elfinder
 ===========================
 
-Адаптация расширения https://github.com/barryvdh/elfinder-flysystem-driver
+РђРґР°РїС‚Р°С†РёСЏ СЂР°СЃС€РёСЂРµРЅРёСЏ https://github.com/barryvdh/elfinder-flysystem-driver
 
 
-## Установка
+## РЈСЃС‚Р°РЅРѕРІРєР°
 
 ```json
     "mihaildev/yii2-elfinder-flysystem": "*"
 ```
 
-## Настройка
+## РќР°СЃС‚СЂРѕР№РєР°
 ```php
 'components' => [
 ...
@@ -39,7 +39,7 @@
 
 ```
 
-или
+РёР»Рё
 
 ```php
 'components' => [
@@ -82,5 +82,5 @@
 
 ```
 
-за дополнительной информацией о настройке компоненты хранилища смотрите тут https://github.com/creocoder/yii2-flysystem
+Р·Р° РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅРѕР№ РёРЅС„РѕСЂРјР°С†РёРµР№ Рѕ РЅР°СЃС‚СЂРѕР№РєРµ РєРѕРјРїРѕРЅРµРЅС‚С‹ С…СЂР°РЅРёР»РёС‰Р° СЃРјРѕС‚СЂРёС‚Рµ С‚СѓС‚ https://github.com/creocoder/yii2-flysystem
 
